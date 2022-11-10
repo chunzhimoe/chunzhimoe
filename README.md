@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chunzhimoe
 - 👀 I’m interested in C#
 - 🌱 I’m currently learning ARCGIS
-- 💞️ I’m looking to 协作 on Microsoft vscode and google workspace
+- 💞️ I’m building my world on vscode and google workspace
 - 📫 Contact  me  at mastodon https://hi.moe.tips/@chunzhi
 
 <!---
