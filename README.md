@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chunzhimoe
-- 👀 I’m interested in C#
-- 🌱 I’m currently learning ARCGIS
+- 👀 I’m interested in C# and python
+- 🌱 I’m currently learning python and arcgis
 - 💞️ I’m building my world on vscode and google workspace
 - 📫 Contact  me  at mastodon https://hi.moe.tips/@chunzhi
 
